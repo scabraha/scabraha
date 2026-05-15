@@ -1,7 +1,7 @@
 **Software engineer** with a background in building **large-scale, distributed cloud systems**.  
 Previously, I spent time at **AWS**, where I learned a thing or two about reliability, scalability, and why everything eventually needs observability.
 
-These days, I enjoy mixing professional cloud experience with hands-on tinkering—especially when it involves running servers in my house and pretending I’m my own SRE team.
+These days, I work on the GitHub Enterprise Server (or GHES) team improving the performance and observability of the platform. In my spare time, I enjoy mixing professional cloud experience with hands-on tinkering—especially when it involves running servers in my house and pretending I’m my own SRE team.
 
 ---
 
